@@ -6,6 +6,6 @@ public class HelloController {
 
     @GetMapping
     public String sayHello(){
-        return "Hello, Jenkins!!!!";
+        return "Hello!!";
     }
 }
